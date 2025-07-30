@@ -4,5 +4,5 @@ import ghPages from 'vite-plugin-gh-pages';
 
 export default defineConfig({
   plugins: [react(), ghPages()],
-  base: '/Redux_todo/', 
+  base: '/Redux_todo', 
 });
